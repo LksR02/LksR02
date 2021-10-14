@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LksR02
+- 👀 I’m interested in Math, A.I. and games
+- 🌱 I’m currently learning Statistics
