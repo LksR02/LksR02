@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @LksR02
+- 👋 Hi, I’m Lucas
 - 👀 I’m interested in Math, A.I. and games
-- 🌱 I’m currently learning Statistics
+- 🌱 I’m currently an undergrad in Statistics UFF - Brazil
